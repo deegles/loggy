@@ -1,0 +1,14 @@
+{
+  "name": "selflogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Benitez",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
