@@ -36,7 +36,7 @@ function writeLog() {
         }
     }
 
-    var logWeek = moment().format("YYYY_MMM") + "_W" + moment().format("ww") + ".log";
+    var logWeek = moment().format("YYYY") + "_W" + moment().format("ww_MMM") + ".log";
 
     process.stdout.write("Logging to: " + logWeek + "...");
 

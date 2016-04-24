@@ -1,4 +1,4 @@
-loggy is a dead-simple utility to create log entries for yourself, organized by week. (e.g. 2016_Apr_W17.log)
+loggy is a dead-simple utility to create log entries for yourself, organized by week. (e.g. 2016_W17_Apr.log)
 
 Entries are timestamped
     
